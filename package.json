@@ -1,0 +1,13 @@
+{
+    "name": "backlink",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "description": "Node.js backlink checking workflow.",
+    "engines": {
+        "node": ">=22"
+    },
+    "scripts": {
+        "backlink": "node backlink.js"
+    }
+}
